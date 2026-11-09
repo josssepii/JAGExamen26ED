@@ -25,5 +25,13 @@
 10.
 ![10i.png](imagenes/10i.png)
 ![10ii.png](imagenes/10ii.png)
-
+![10iii.png](imagenes/10iii.png)
+![10iiii.png](imagenes/10iiii.png)
+11.
+![11i.png](imagenes/11i.png)
+![11ii.png](imagenes/11ii.png)
+12.
+13.
+clone: descarga un repositorio completo por primera vez.  
+pull: trae los cambios nuevos a un repositorio que ya tienes.
 
