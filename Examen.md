@@ -39,3 +39,5 @@ Hecho
 15.
 ![15.png](imagenes/15.png)
 16.
+![16i.png](imagenes/16i.png)
+![16ii.png](imagenes/16ii.png)
