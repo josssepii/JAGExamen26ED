@@ -1,7 +1,7 @@
 # EJERCICIOS EXAMEN
 
 1. 
-
+![1.png](imagenes/1.png)
 2. 
 ![2.png](imagenes/2.png)
 3. 
@@ -34,4 +34,8 @@
 13.
 clone: descarga un repositorio completo por primera vez.  
 pull: trae los cambios nuevos a un repositorio que ya tienes.
-
+14.
+Hecho
+15.
+![15.png](imagenes/15.png)
+16.
