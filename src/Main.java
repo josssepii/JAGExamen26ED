@@ -11,4 +11,13 @@ public class Main {
         System.out.println("Número 1: " + numero1);
         System.out.println("Número 2: " + numero2);
     }
+    public static double sumar(double a, double b) {
+        return a + b;
+    }
+    public static double multiplicar(double a, double b) {
+        return a + b;
+    }
+    public static double potencia(double base, double exponente) {
+        return Math.pow(base, exponente);
+    }
 }
