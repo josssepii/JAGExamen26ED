@@ -25,5 +25,5 @@
 10.
 ![10i.png](imagenes/10i.png)
 ![10ii.png](imagenes/10ii.png)
-11.
+
 
